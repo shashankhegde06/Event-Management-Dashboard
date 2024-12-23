@@ -40,6 +40,7 @@ This project is a full-stack web application for managing events, attendees, and
 ### Prerequisites
 - Node.js and npm installed
 - MongoDB instance running
+- node modules installed
 
 ### Backend Setup
 1. Clone the repository and navigate to the backend folder:
